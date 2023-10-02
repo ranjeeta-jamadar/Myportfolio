@@ -1,0 +1,8 @@
+myPortfolio: Easy Way to Create Your Amazing Portfolio.
+Description
+Project objective& Background:
+As a Full Stack Developer,  I have created a frontend for the myPortfolio application. In the third sprint, the scrum team agreed to develop the frontend of the application using an Angular framework. Since I have recently trained in working on this framework, i have chosen to lead this project and complete the initial part of the application. So i agree to complete this task as early as possible, as the release of the application is next week. 
+ Developer details:
+Name :Ranjeeta
+github link:https://github.com/ranjeeta-jamadar/Myportfolio.git
+I have built an website using Angular .i have added a contact form to contact restaurant for users.The tools i have used is angular ,Html.
